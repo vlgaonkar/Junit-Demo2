@@ -9,7 +9,7 @@ public class SampleTest2 {
 	{
 		int a = 1; 
 		int b = 3;
-		assertTrue(a + b == 4);
+		assertTrue(a * b == 3);
 		
 	}
 	
