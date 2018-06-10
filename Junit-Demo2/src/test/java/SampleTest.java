@@ -7,8 +7,8 @@ public class SampleTest {
 	public void SampleTestPass()
 	{
 		int a = 1; 
-		int b = 2;
-		assertTrue(a + b == 3);
+		int b = 3;
+		assertTrue(a + b == 4);
 		
 	}
 	
