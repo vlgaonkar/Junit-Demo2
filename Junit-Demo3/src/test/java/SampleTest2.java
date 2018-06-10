@@ -8,8 +8,8 @@ public class SampleTest2 {
 	public void SampleTestPass()
 	{
 		int a = 1; 
-		int b = 3;
-		assertTrue(a + b == 4);
+		int b = 5;
+		assertTrue(a * b == 5);
 		
 	}
 	
